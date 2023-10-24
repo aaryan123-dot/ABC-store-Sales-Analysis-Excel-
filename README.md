@@ -1,2 +1,4 @@
 # ABC-store-Sales-Analysis-Excel-
-Analyzed sales for ABC store in the year of 2022. Provided insights on how to improve sales for the following years. 
+-> Made an annual report for year 2022 for ABC Store. Analyzed data with the help of functions in MS Excel like \textbf{Pivot Table}, \textbf{Pivot Charts} and \textbf{Slicers}.
+
+-> Gave final insights and conclusion to improve sales for the following year.
